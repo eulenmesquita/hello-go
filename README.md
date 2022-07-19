@@ -17,8 +17,6 @@ $ docker push
 $ docker run eulen/codeeducation
 ```
 
-Como exemplo: `docker build -t eulen/codeeducation`
-
 ## Sobre o multistaging
 O primeiro estage foi feito a partir de uma imagem base do `golang:alpine`:
 
